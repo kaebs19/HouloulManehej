@@ -1,0 +1,297 @@
+
+/* Class = "UITabBarItem"; title = "أسئلة وأجوبة"; ObjectID = "0NP-9O-PBY"; */
+"0NP-9O-PBY.title" = "أسئلة وأجوبة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1dx-VS-FM7"; */
+"1dx-VS-FM7.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "حول التطبيق"; ObjectID = "1iX-3i-Gys"; */
+"1iX-3i-Gys.title" = "حول التطبيق";
+
+/* Class = "UIButton"; normalTitle = "تسجيل الدخول"; ObjectID = "3Ca-LJ-DHQ"; */
+"3Ca-LJ-DHQ.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "اختر المادة"; ObjectID = "4EA-qj-JoG"; */
+"4EA-qj-JoG.text" = "اختر المادة";
+
+/* Class = "UITabBarItem"; title = "المزيد"; ObjectID = "5Ot-aM-DFm"; */
+"5Ot-aM-DFm.title" = "المزيد";
+
+/* Class = "UILabel"; text = "حلول المرحلة الإبتدائية"; ObjectID = "6W3-u6-uMU"; */
+"6W3-u6-uMU.text" = "حلول المرحلة الإبتدائية";
+
+/* Class = "UITextField"; placeholder = "الصف الدراسي "; ObjectID = "7Qu-3K-Agj"; */
+"7Qu-3K-Agj.placeholder" = "الصف الدراسي ";
+
+/* Class = "UILabel"; text = "ملحوظة عند اضافة سؤال يخصم منك 10 نقاط"; ObjectID = "8LF-VO-tw8"; */
+"8LF-VO-tw8.text" = "ملحوظة عند اضافة سؤال يخصم منك 10 نقاط";
+
+/* Class = "UITextField"; placeholder = "المدرسة"; ObjectID = "BEt-Zs-BMO"; */
+"BEt-Zs-BMO.placeholder" = "المدرسة";
+
+/* Class = "UITextField"; placeholder = "الصف الدراسي"; ObjectID = "BMC-IY-w2K"; */
+"BMC-IY-w2K.placeholder" = "الصف الدراسي";
+
+/* Class = "UITextField"; placeholder = "الاسم "; ObjectID = "Bzw-J8-aEK"; */
+"Bzw-J8-aEK.placeholder" = "الاسم ";
+
+/* Class = "UILabel"; text = "الصف السادس/ لغة عربية"; ObjectID = "CAB-iO-WPr"; */
+"CAB-iO-WPr.text" = "الصف السادس/ لغة عربية";
+
+/* Class = "UILabel"; text = "الدردشة\n\n"; ObjectID = "CwV-yC-Sc2"; */
+"CwV-yC-Sc2.text" = "الدردشة\n\n";
+
+/* Class = "UILabel"; text = "تويتر"; ObjectID = "DC0-zY-wk7"; */
+"DC0-zY-wk7.text" = "تويتر";
+
+/* Class = "UIButton"; normalTitle = "قراءة الكتاب >"; ObjectID = "DE1-Oc-4k5"; */
+"DE1-Oc-4k5.normalTitle" = "قراءة الكتاب >";
+
+/* Class = "UIButton"; normalTitle = " تخطي      "; ObjectID = "DVn-9E-wQk"; */
+"DVn-9E-wQk.normalTitle" = " تخطي      ";
+
+/* Class = "UITextField"; placeholder = "ابحث هنا"; ObjectID = "DeN-9r-u82"; */
+"DeN-9r-u82.placeholder" = "ابحث هنا";
+
+/* Class = "UIButton"; normalTitle = "كسب نقاط"; ObjectID = "EXW-Wa-1kT"; */
+"EXW-Wa-1kT.normalTitle" = "كسب نقاط";
+
+/* Class = "UILabel"; text = "حلول المرحلة الإبتدائية"; ObjectID = "GQB-Rc-XpO"; */
+"GQB-Rc-XpO.text" = "حلول المرحلة الإبتدائية";
+
+/* Class = "UILabel"; text = "حلول الفصل الأول"; ObjectID = "HG7-NX-Mvx"; */
+"HG7-NX-Mvx.text" = "حلول الفصل الأول";
+
+/* Class = "UITextView"; text = "ارسال رسالة"; ObjectID = "Hcl-l1-qkm"; */
+"Hcl-l1-qkm.text" = "ارسال رسالة";
+
+/* Class = "UILabel"; text = "محمد صالح"; ObjectID = "Hef-f4-41l"; */
+"Hef-f4-41l.text" = "محمد صالح";
+
+/* Class = "UITextField"; placeholder = "نبذة عنك "; ObjectID = "Hrg-IV-0Eg"; */
+"Hrg-IV-0Eg.placeholder" = "نبذة عنك ";
+
+/* Class = "UILabel"; text = "تم نشر السؤال منذ 2 ساعة"; ObjectID = "IwV-0O-pne"; */
+"IwV-0O-pne.text" = "تم نشر السؤال منذ 2 ساعة";
+
+/* Class = "UINavigationItem"; title = "الاجابات"; ObjectID = "JCv-Qu-R0X"; */
+"JCv-Qu-R0X.title" = "الاجابات";
+
+/* Class = "UILabel"; text = "انستغرام"; ObjectID = "JSu-jW-cVY"; */
+"JSu-jW-cVY.text" = "انستغرام";
+
+/* Class = "UILabel"; text = "زائر"; ObjectID = "KNk-iY-BzW"; */
+"KNk-iY-BzW.text" = "زائر";
+
+/* Class = "UILabel"; text = "الأسئلة"; ObjectID = "KWx-Cb-O4R"; */
+"KWx-Cb-O4R.text" = "الأسئلة";
+
+/* Class = "UITextField"; placeholder = "الكنية "; ObjectID = "Kg3-oj-dP9"; */
+"Kg3-oj-dP9.placeholder" = "الكنية ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "L6a-tb-AzN"; */
+"L6a-tb-AzN.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LsV-II-FSA"; */
+"LsV-II-FSA.text" = "Label";
+
+/* Class = "UILabel"; text = "تسجيل بواسطة"; ObjectID = "MXQ-tr-zK5"; */
+"MXQ-tr-zK5.text" = "تسجيل بواسطة";
+
+/* Class = "UIButton"; normalTitle = "تسجيل"; ObjectID = "Msb-vg-SXM"; */
+"Msb-vg-SXM.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "الصف الأول"; ObjectID = "O45-mq-fH3"; */
+"O45-mq-fH3.text" = "الصف الأول";
+
+/* Class = "UILabel"; text = "حول التطبيق"; ObjectID = "OJh-wh-YmI"; */
+"OJh-wh-YmI.text" = "حول التطبيق";
+
+/* Class = "UIButton"; normalTitle = "حذف الحساب"; ObjectID = "QBY-hp-AXx"; */
+"QBY-hp-AXx.normalTitle" = "حذف الحساب";
+
+/* Class = "UITabBarItem"; title = "المفضلة"; ObjectID = "QIc-Qs-Chq"; */
+"QIc-Qs-Chq.title" = "المفضلة";
+
+/* Class = "UIButton"; normalTitle = "موافق"; ObjectID = "RTg-q8-U8a"; */
+"RTg-q8-U8a.normalTitle" = "موافق";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Rrt-0S-cm1"; */
+"Rrt-0S-cm1.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "SCS-GO-KVo"; */
+"SCS-GO-KVo.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "الخروج"; ObjectID = "SQH-9A-cft"; */
+"SQH-9A-cft.text" = "الخروج";
+
+/* Class = "UITabBarItem"; title = "دردشة"; ObjectID = "Ske-AM-ckS"; */
+"Ske-AM-ckS.title" = "دردشة";
+
+/* Class = "UILabel"; text = "الصف الأول"; ObjectID = "SlJ-lq-aBo"; */
+"SlJ-lq-aBo.text" = "الصف الأول";
+
+/* Class = "UILabel"; text = "الدرس الثالث - الجزء الأول"; ObjectID = "Soa-3P-7Z1"; */
+"Soa-3P-7Z1.text" = "الدرس الثالث - الجزء الأول";
+
+/* Class = "UILabel"; text = "الصف السادس/ لغة عربية"; ObjectID = "TLy-b5-z5r"; */
+"TLy-b5-z5r.text" = "الصف السادس/ لغة عربية";
+
+/* Class = "UILabel"; text = "اختر الصف"; ObjectID = "UuL-2o-VbD"; */
+"UuL-2o-VbD.text" = "اختر الصف";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "VAF-b6-A1i"; */
+"VAF-b6-A1i.title" = "Item";
+
+/* Class = "UILabel"; text = "الصفحة الشخصية"; ObjectID = "VX6-az-imc"; */
+"VX6-az-imc.text" = "الصفحة الشخصية";
+
+/* Class = "UINavigationItem"; title = "حول التطبيق"; ObjectID = "W1F-0Z-b5a"; */
+"W1F-0Z-b5a.title" = "حول التطبيق";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W9d-5Y-xq8"; */
+"W9d-5Y-xq8.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "WEj-VL-r7Y"; */
+"WEj-VL-r7Y.placeholder" = "الاسم";
+
+/* Class = "UILabel"; text = "اختيار صورة"; ObjectID = "XaB-Wd-Mft"; */
+"XaB-Wd-Mft.text" = "اختيار صورة";
+
+/* Class = "UIButton"; normalTitle = "انشاء حساب"; ObjectID = "Z2U-ei-0d2"; */
+"Z2U-ei-0d2.normalTitle" = "انشاء حساب";
+
+/* Class = "UITextField"; placeholder = "اسم الصف هنا"; ObjectID = "ZMV-My-F0a"; */
+"ZMV-My-F0a.placeholder" = "اسم الصف هنا";
+
+/* Class = "UILabel"; text = "بالضغط على تسجيل فانك توافق على شروط الاستخدم"; ObjectID = "Zmf-pH-CEc"; */
+"Zmf-pH-CEc.text" = "بالضغط على تسجيل فانك توافق على شروط الاستخدم";
+
+/* Class = "UIButton"; normalTitle = "موافق"; ObjectID = "asE-eJ-qDm"; */
+"asE-eJ-qDm.normalTitle" = "موافق";
+
+/* Class = "UILabel"; text = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة"; ObjectID = "b3e-CI-S7U"; */
+"b3e-CI-S7U.text" = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "bNs-5t-aPf"; */
+"bNs-5t-aPf.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "مشاركة التطبيق"; ObjectID = "bXO-3W-K8b"; */
+"bXO-3W-K8b.text" = "مشاركة التطبيق";
+
+/* Class = "UITextField"; placeholder = "اسم المادة هنا"; ObjectID = "dB6-96-Qsu"; */
+"dB6-96-Qsu.placeholder" = "اسم المادة هنا";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dDc-cf-RCK"; */
+"dDc-cf-RCK.text" = "Label";
+
+/* Class = "UILabel"; text = "تطبيق حل مناهج الدراسية المنهج الدراسي \nالسعودي جميع المواد ويتم تحديث مواد باستمرار في حاله وجود خطا نتمنى \nالتوصل معنا لحل المشكلة في اقرب فرصه او في حاله وجود خطا في اضافه\n اصلاحه في اقرب فرصه\n\nشكراً لكمل من صاعد في عمل تطبيق الاخ شهاب\nوشكراً لموقع حلول علي سماح لنا بأخذ كتب حلول من موقع\n\nتوصلوا معنا علي شبكات التواصل الاجتماعي او عن طريق البريد الإلكتروني\n\nkaebs19@gmail.com\nواتساب\n966-0551902770\n"; ObjectID = "dvI-b6-qih"; */
+"dvI-b6-qih.text" = "تطبيق حل مناهج الدراسية المنهج الدراسي \nالسعودي جميع المواد ويتم تحديث مواد باستمرار في حاله وجود خطا نتمنى \nالتوصل معنا لحل المشكلة في اقرب فرصه او في حاله وجود خطا في اضافه\n اصلاحه في اقرب فرصه\n\nشكراً لكمل من صاعد في عمل تطبيق الاخ شهاب\nوشكراً لموقع حلول علي سماح لنا بأخذ كتب حلول من موقع\n\nتوصلوا معنا علي شبكات التواصل الاجتماعي او عن طريق البريد الإلكتروني\n\nkaebs19@gmail.com\nواتساب\n966-0551902770\n";
+
+/* Class = "UILabel"; text = "اقرا المزيد عن النقاط"; ObjectID = "eDQ-4K-PTA"; */
+"eDQ-4K-PTA.text" = "اقرا المزيد عن النقاط";
+
+/* Class = "UILabel"; text = "نقاطك الحالية"; ObjectID = "eao-2c-V0M"; */
+"eao-2c-V0M.text" = "نقاطك الحالية";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "ecz-G2-xLG"; */
+"ecz-G2-xLG.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "نقطة"; ObjectID = "eiu-X4-oUI"; */
+"eiu-X4-oUI.text" = "نقطة";
+
+/* Class = "UITextField"; placeholder = "البريد الالكتروني"; ObjectID = "fa6-nS-2tv"; */
+"fa6-nS-2tv.placeholder" = "البريد الالكتروني";
+
+/* Class = "UILabel"; text = "التربية الأسرية"; ObjectID = "fwb-Al-Jz3"; */
+"fwb-Al-Jz3.text" = "التربية الأسرية";
+
+/* Class = "UILabel"; text = "المزيد"; ObjectID = "gAj-tB-fQr"; */
+"gAj-tB-fQr.text" = "المزيد";
+
+/* Class = "UILabel"; text = "تم نشر السؤال منذ 2 ساعة"; ObjectID = "guZ-QQ-uX3"; */
+"guZ-QQ-uX3.text" = "تم نشر السؤال منذ 2 ساعة";
+
+/* Class = "UILabel"; text = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة"; ObjectID = "hNI-4j-qDV"; */
+"hNI-4j-qDV.text" = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة";
+
+/* Class = "UILabel"; text = "200/0"; ObjectID = "hbN-ZX-Q24"; */
+"hbN-ZX-Q24.text" = "200/0";
+
+/* Class = "UILabel"; text = "إنشاء حساب"; ObjectID = "isg-qj-P8L"; */
+"isg-qj-P8L.text" = "إنشاء حساب";
+
+/* Class = "UIButton"; normalTitle = "الغاء"; ObjectID = "j0B-k4-piz"; */
+"j0B-k4-piz.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة"; ObjectID = "j1H-Sy-y1H"; */
+"j1H-Sy-y1H.text" = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة";
+
+/* Class = "UITextField"; placeholder = "اسم المادة هنا"; ObjectID = "jhF-7J-7Jx"; */
+"jhF-7J-7Jx.placeholder" = "اسم المادة هنا";
+
+/* Class = "UILabel"; text = "تسجيل الدخول"; ObjectID = "jvK-YQ-VZa"; */
+"jvK-YQ-VZa.text" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "حل كتاب الطالب"; ObjectID = "lCp-0s-mTA"; */
+"lCp-0s-mTA.text" = "حل كتاب الطالب";
+
+/* Class = "UILabel"; text = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة"; ObjectID = "ld2-NH-LvN"; */
+"ld2-NH-LvN.text" = "هنا يوجد سؤال نصي من الممكن أن تستبدله بأي نص آخر ، هذا السؤال تم توليده من مولد النصوص العالمي، لكي يقرب للمستخدم الفكرة";
+
+/* Class = "UILabel"; text = "200/0"; ObjectID = "m0W-mt-UxC"; */
+"m0W-mt-UxC.text" = "200/0";
+
+/* Class = "UILabel"; text = "3456"; ObjectID = "nT8-I2-Et6"; */
+"nT8-I2-Et6.text" = "3456";
+
+/* Class = "UILabel"; text = "الصف السادس/ لغة عربية"; ObjectID = "pfs-1Y-LRI"; */
+"pfs-1Y-LRI.text" = "الصف السادس/ لغة عربية";
+
+/* Class = "UITabBarItem"; title = "الكتب"; ObjectID = "qnn-00-GHu"; */
+"qnn-00-GHu.title" = "الكتب";
+
+/* Class = "UILabel"; text = "الكتب"; ObjectID = "sBc-hh-HII"; */
+"sBc-hh-HII.text" = "الكتب";
+
+/* Class = "UILabel"; text = "تقييم التطبيق"; ObjectID = "sab-pl-UCJ"; */
+"sab-pl-UCJ.text" = "تقييم التطبيق";
+
+/* Class = "UILabel"; text = "المفضلة\n\n"; ObjectID = "sp8-l2-cAZ"; */
+"sp8-l2-cAZ.text" = "المفضلة\n\n";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "sw3-9d-SYu"; */
+"sw3-9d-SYu.title" = "Item";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "t13-GI-jB3"; */
+"t13-GI-jB3.text" = "0";
+
+/* Class = "UILabel"; text = "التربية الإسلامية الجزء الأول"; ObjectID = "tpK-K6-b1u"; */
+"tpK-K6-b1u.text" = "التربية الإسلامية الجزء الأول";
+
+/* Class = "UITextField"; placeholder = "اسم المادة هنا"; ObjectID = "tvk-9p-Wy2"; */
+"tvk-9p-Wy2.placeholder" = "اسم المادة هنا";
+
+/* Class = "UILabel"; text = "اضافة سؤال"; ObjectID = "uIG-2a-YW7"; */
+"uIG-2a-YW7.text" = "اضافة سؤال";
+
+/* Class = "UILabel"; text = "محمد صالح"; ObjectID = "uXU-7y-ver"; */
+"uXU-7y-ver.text" = "محمد صالح";
+
+/* Class = "UILabel"; text = "المواد الدراسية"; ObjectID = "vOI-1f-1Nb"; */
+"vOI-1f-1Nb.text" = "المواد الدراسية";
+
+/* Class = "UILabel"; text = "تم نشر السؤال منذ 2 ساعة"; ObjectID = "w7z-NT-2UB"; */
+"w7z-NT-2UB.text" = "تم نشر السؤال منذ 2 ساعة";
+
+/* Class = "UILabel"; text = "الصف الأول"; ObjectID = "wSV-U3-oTI"; */
+"wSV-U3-oTI.text" = "الصف الأول";
+
+/* Class = "UILabel"; text = "الدرس الثالث - الجزء الأول"; ObjectID = "we5-O9-0bV"; */
+"we5-O9-0bV.text" = "الدرس الثالث - الجزء الأول";
+
+/* Class = "UITextField"; placeholder = "الايميل\n\n"; ObjectID = "xhj-UB-Hmd"; */
+"xhj-UB-Hmd.placeholder" = "الايميل\n\n";
+
+/* Class = "UILabel"; text = "محمد صالح"; ObjectID = "zv7-9w-ZH5"; */
+"zv7-9w-ZH5.text" = "محمد صالح";
